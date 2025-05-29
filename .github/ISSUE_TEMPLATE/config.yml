@@ -1,0 +1,13 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+blank_issues_enabled: false
+
+# Issue作成時のテンプレート設定
+
+defaults:
+  - template: "bug_report.yml"
+    name: "🐛 バグ報告"
+    about: "バグを報告する"
+  - template: "feature_request.yml"
+    name: "💡 改善・リファクタリング"
+    about: "改善・リファクタリングを提案する"
