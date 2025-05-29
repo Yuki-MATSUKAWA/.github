@@ -13,7 +13,7 @@ body:
         見た目に関係する場合は，スクリーンショット等を貼り付けてください．
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: environment
     attributes:
       label: 再現環境
