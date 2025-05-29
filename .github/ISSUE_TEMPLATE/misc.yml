@@ -1,0 +1,14 @@
+# .github/ISSUE_TEMPLATE/misc.yml
+
+name: その他
+description: その他の issue はこちら（質問や相談も OK！）
+title: '[misc] '
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 説明
+      description: この issue の説明を書いてください．
+    validations:
+      required: true
+
